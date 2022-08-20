@@ -54,15 +54,15 @@ Here are a few snippets of what you can find in this project
 
 ### Cumulative Returns:
 
-[whale_overaly](images/whale_overlay.png)
+![whale_overaly](images/whale_overlay.png)
 
 ### Volatility:
 
-[volatility](images/volatility.png)
+![volatility](images/volatility.png)
 
 ### Sharpe Ratios:
 
-[sharpe_ratios](images/sharpe_ratios.png)
+![sharpe_ratios](images/sharpe_ratios.png)
 
 ---
 
