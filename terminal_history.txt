@@ -1,0 +1,50 @@
+  458  jupyter lab
+  459  conda deactivate 
+  460  exit
+  461  conda activate tdev
+  462  git pull 
+  463  git status
+  464  git pull 
+  465  jupyter lab
+  466  cd ..
+  467  ls
+  468  cd Quantitative_Analysis_with_Pandas/
+  469  ls
+  470  cd Class_2_Activities/
+  471  ls
+  472  jupyter lab
+  473  conda deactivate
+  474  exit
+  475  conda activate tdev
+  476  jupyter lab
+  477  git status
+  478  git add .
+  479  git status
+  480  git commit -m "finished beta analysis - sensitivity"
+  481  git push
+  482  git status
+  483  conda deactivate 
+  484  exit
+  485  conda activate tdev
+  486  jupyter lab
+  487  git add . 
+  488  git status
+  489  git commit -m "completed README"
+  490  git status
+  491  git push
+  492  conda deactivate 
+  493  conda activate tdev
+  494  jupyter lab
+  495  git add . 
+  496  git commit -m "image link update"
+  497  git push
+  498  git status
+  499  conda deactivate
+  500  exit
+  501  conda activate tdev
+  502  jupyter lab
+  503  git add .
+  504  git commit -m "fixed typo in graph"
+  505  git push
+  506  git status
+  507  history 50 > terminal_history.txt
