@@ -1,4 +1,4 @@
-# Module_3_Challenge - Arbitrage Analysis
+# Arbitrage Analysis
 
 This jupyter lab notebook will take the observer through a financial analysis of 4 major hedge funds using the S&P 500 as the overall market. Namely: SOROS FUND MANAGEMENT LLC, PAULSON & CO.INC., TIGER GLOBAL MANAGEMENT LLC and BERKSHIRE HATHAWAY INC. First, the volatility will be analyzed, next risk, then the sharpe ratios and finally the beta of the 4 funds. A clear picture of which funds offer a sound investment option should be made by the end of this analysis. 
 
